@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/takao-h/next_tegrat#readme",
   "dependencies": {
-    "next": "^7.0.1",
+    "next": "^7.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   }
